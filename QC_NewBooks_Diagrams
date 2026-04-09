@@ -44,7 +44,7 @@
         <mxCell id="3KuFPlT3UPWiwgaZAwX4-6" parent="1" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fillColor=#b1ddf0;strokeColor=#10739e;" value="Are All Fields Filled In?" vertex="1">
           <mxGeometry height="90" width="180" x="-363" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="3KuFPlT3UPWiwgaZAwX4-12" edge="1" parent="1" source="3KuFPlT3UPWiwgaZAwX4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="3KuFPlT3UPWiwgaZAwX4-3">
+        <mxCell id="3KuFPlT3UPWiwgaZAwX4-12" edge="1" parent="1" source="3KuFPlT3UPWiwgaZAwX4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="3KuFPlT3UPWiwgaZAwX4-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-273" y="700" />
@@ -79,7 +79,7 @@
         <mxCell id="3KuFPlT3UPWiwgaZAwX4-15" parent="1" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fillColor=#b1ddf0;strokeColor=#10739e;" value="Is The Amount Greater Than Zero?" vertex="1">
           <mxGeometry height="90" width="180" x="-78" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="3KuFPlT3UPWiwgaZAwX4-24" edge="1" parent="1" source="3KuFPlT3UPWiwgaZAwX4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3KuFPlT3UPWiwgaZAwX4-3">
+        <mxCell id="3KuFPlT3UPWiwgaZAwX4-24" edge="1" parent="1" source="3KuFPlT3UPWiwgaZAwX4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="3KuFPlT3UPWiwgaZAwX4-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="12" y="720" />
@@ -115,7 +115,7 @@
         <mxCell id="3KuFPlT3UPWiwgaZAwX4-25" parent="1" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fillColor=#b1ddf0;strokeColor=#10739e;" value="Do Total Debits Equal Total Credits?" vertex="1">
           <mxGeometry height="90" width="180" x="212" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="3KuFPlT3UPWiwgaZAwX4-31" edge="1" parent="1" source="3KuFPlT3UPWiwgaZAwX4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="3KuFPlT3UPWiwgaZAwX4-3">
+        <mxCell id="3KuFPlT3UPWiwgaZAwX4-31" edge="1" parent="1" source="3KuFPlT3UPWiwgaZAwX4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="3KuFPlT3UPWiwgaZAwX4-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="307" y="755" />
